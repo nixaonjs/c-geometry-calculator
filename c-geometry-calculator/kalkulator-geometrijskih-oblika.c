@@ -1,3 +1,6 @@
+// Geometry Calculator - academic project
+// Author: nixaonjs
+
 #include <stdio.h>
 
 #define PI 3.14159 
